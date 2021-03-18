@@ -7,14 +7,15 @@ Use acceleration sensor on a mobile phone to control a race car through Bluetoot
 ## MyAirFormula
 Final Project, Practice of Mechanical Engineering, 2015 Spring
 
-https://ceiba.ntu.edu.tw/modules/index.php?csn=1175d1
+Private class website: https://ceiba.ntu.edu.tw/modules/index.php?csn=1175d1
 
+Design a _remote race car_ **without** using _active wheels_.
 The design requirement states that all the propelling, steering and braking force must be provided by air force which is the origin of the name “Air formula”.
 
 ## TreeClimbingCar
 Final Project, Machine Design Theory, 2016 Fall
 
-https://ceiba.ntu.edu.tw/modules/index.php?csn=57dd98
+Private class website: https://ceiba.ntu.edu.tw/modules/index.php?csn=57dd98
 
 How to harvest coconut at Royal Palm Boulevard in NTU?
 
