@@ -5,7 +5,7 @@ Side Project, What if you can play a real remote car rather than a virtual one!
 Use acceleration sensor on a mobile phone to control a race car through Bluetooth connection!
 
 ## MyAirFormula
-Final Project, Practice of Mechanical Engineering, 2015 Spring
+Final Project, Practice of Mechanical Engineering, 2016 Spring
 
 Private class website: https://ceiba.ntu.edu.tw/modules/index.php?csn=1175d1
 
